@@ -47,4 +47,5 @@ def audio_downloader():
             print("Invalid Input, please input a valid Playlist or Video link.")
 
 if __name__ == "__main__":
-    audio_downloader()
+    while True:
+        audio_downloader()
