@@ -40,4 +40,4 @@ If you enter an invalid URL or choose to exit the program, the script will print
 
 ## License
 
-Planr Pro is licensed under the MIT License.
+Youtube Downloader is licensed under the MIT License.
